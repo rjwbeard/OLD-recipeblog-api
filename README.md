@@ -1,2 +1,2 @@
-# recipe-blog
+# recipe-blog-api
 Recipe Blog API
