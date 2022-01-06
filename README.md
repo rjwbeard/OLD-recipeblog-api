@@ -1,2 +1,2 @@
 # recipe-blog
-My Recipe Blog (Cookie Worldwide)
+Recipe Blog API
